@@ -5,7 +5,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace DeploymentItemTest
 {
     [TestClass]
-    [DeploymentItem(@"SubFolder\TextFile1.txt")]
+    [DeploymentItem(@"TextFile1.txt")]
     public class UnitTest1
     {
 
