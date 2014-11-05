@@ -1,0 +1,5 @@
+_NCrunch_*
+bin
+*.suo
+obj
+TestResults
