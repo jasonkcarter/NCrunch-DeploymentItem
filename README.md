@@ -6,8 +6,9 @@ Demo of a test configuration utilizing MSTest a DeploymentItem that passes in VS
 *Instructions*
 - Pull the repository
 - Open DeploymentItemProject.sln using Visual Studio 2010, 2012, or 2013
+- Build the DeploymentItemTest project.
 - Enable NCrunch and do not ignore any test projects (if it's not already enabled)
 - Notice that the one test fails
-- Open the Test->Test Explorer (VS 2012/13) or Test->Windows->Test List (VS 2010) windows.
+- Open the Test->Test Explorer (VS 2012/13) or Test->Windows->Test View (VS 2010) windows.
 - Run the one test and notice that it passes.
 - If you have Resharper installed, run the test with its test runner as well, and notice that it passes.
